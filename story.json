@@ -1,0 +1,33 @@
+{"origin": ["#chapter# #chapter# #chapter# #chapter# #chapter# #chapter# #chapter# #chapter# #chapter# #chapter# #chapter# #chapter# #chapter# #chapter# #chapter# #chapter# #chapter# #chapter# #chapter# #chapter# #chapter# #chapter#"],
+	"chapter" : ["<h2>#title#</h2> #paragraph# #paragraph# #paragraph# #paragraph# #paragraph# #paragraph# #paragraph# #paragraph# #paragraph# #paragraph# #paragraph# #paragraph# #paragraph# #paragraph# #paragraph# #paragraph# #paragraph# #paragraph# #paragraph# #paragraph# #paragraph# #paragraph# #paragraph#"],
+	"paragraph" : [
+		"<p>#sentence# #sentence# #sentence# #sentence# #sentence# #sentence# #sentence# #sentence# #sentence# #sentence# #sentence# #sentence#</p>",
+		"<p>#sentence# #sentence# #sentence# #sentence#</p>",
+	    "<p>#sentence# #sentence# #sentence# #sentence# #sentence# #sentence# #sentence# #sentence# #sentence# #sentence# #sentence# #sentence#</p>"],
+
+	"sentence": [
+			"Creativity is something like #description#.",
+			"It make me want to destroy everything in my life and make me want to stop creating.",
+			"Nothing is ever #ever#.",
+			"Nothing will be good enough for anyone in the world.",
+			"Nobody will ever accept my work and nobody will be #emotion#.",
+			"I #do# give up creativity.",
+			"Maybe #day# i will go out and do something different with my life, maybe i will focus on creating or just focus on changing my life.",
+			"What is even the reason behind creating?",
+			"Who wants to be #differentemotion#, who wants to do anything with their life.",
+			"Never have i ever created something that i actually enjoyed, and never will i ever enjoy that something.",
+			"You know, sometimes i think that whenever i create something, there is definitely something better out there in the world.",
+			"The last time that i created something, i felt impowered, but i also felt annoyed with how nobody other than myself actually liked it.",
+			"Why do i even want to be #differentemotion#.",
+			" there are so much more creatives out there that are better than me, i am just a small #compare1# in a world of #compare2#."],
+	
+	"title" : ["The #emotion.capitalize# Creator"],
+	"emotion" : ["deadly","killer","thoughfull","crazy","death-defying","suspicious","focused","heartless", "sudicidal", "pessimistic","kind","strange","heroic","loving","stupid","ugly","beautiful","hated","loved","overrated"],
+	"ever" : ["right","good","great","up to par","what i want it to be","good enough for me"],
+	"do": ["should","will not","probably","want","am going to","must", "can't"],
+	"day" : ["today","tommorrow","next week", "next year", "next month", "at some point", "in my next life"],
+	"description" :["death", "pain", "suicide", "hate", "happiness","sadness", "school"],
+	"differentemotion" : ["happy", "creative","famous", "rich", "the greatest","awesome","the person in charge","powerful","looked up to","themselves"],
+	"compare1" :["fry, pebble","pencil", "paint drop"],
+	"compare2" : ["big fries","boulders","ball point pens","clean and polished art pieces"]
+}
