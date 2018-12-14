@@ -19,7 +19,15 @@
 			"You know, sometimes i think that whenever i create something, there is definitely something better out there in the world.",
 			"The last time that i created something, i felt impowered, but i also felt annoyed with how nobody other than myself actually liked it.",
 			"Why do i even want to be #differentemotion#.",
-			" there are so much more creatives out there that are better than me, i am just a small #compare1# in a world of #compare2#."],
+			" there are so much more creatives out there that are better than me, i am just a small #compare1# in a world of #compare2#.",
+			"Creating is some sort of #thing#",
+			"I haven't been #something# in so long",
+			"Do you think that creating makes anyone #emotion#?",
+			"I am my worst #who#.",
+			"You can't tell me what to do with my #self#.",
+			"I sometimes just wanna #dowhat#.",
+			"My life is just some sort of #life#.",
+			"In one of these chapters #title# i express my feeling about #aboutwhat#."],
 	
 	"title" : ["The #emotion.capitalize# Creator"],
 	"emotion" : ["deadly","killer","thoughfull","crazy","death-defying","suspicious","focused","heartless", "sudicidal", "pessimistic","kind","strange","heroic","loving","stupid","ugly","beautiful","hated","loved","overrated"],
@@ -29,5 +37,13 @@
 	"description" :["death", "pain", "suicide", "hate", "happiness","sadness", "school"],
 	"differentemotion" : ["happy", "creative","famous", "rich", "the greatest","awesome","the person in charge","powerful","looked up to","themselves"],
 	"compare1" :["fry, pebble","pencil", "paint drop"],
-	"compare2" : ["big fries","boulders","ball point pens","clean and polished art pieces"]
-} 
+	"compare2" : ["big fries","boulders","ball point pens","clean and polished art pieces"],
+	"thing" : ["hell", "purgatory", "punishment", "love", "craziness", "stupidness", "death", "hate", "greatness"],
+	"something" : ["happy", "sad", "nice", "loved","hated","appreciated","hugged", "kissed", "embraced"],
+	"emotion": ["happy", "sad", "sudicidal","loved", "hated", "championed", "respected", "disliked"],
+	"who":["critic", "enemy","hater", " poision"],
+	"self" : ["self", "creativity", "life"],
+	"dowhat" : ["die", "go away", "leave my life behind"],
+	"life": ["hell", "purgatory", "punishment"],
+	"about": ["life", "death" , "creativity", "suicide", "embarassment", "my life", "people of love","people i hate", "my fears"]
+}
